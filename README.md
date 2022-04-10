@@ -3,5 +3,5 @@ This project was undertaken to determine the number of retiring employees per ti
 ]
 ### RESULTS
 
-![EmployeeDB](https://user-images.githubusercontent.com/100330488/162641807-6dfc14df-e9ce-4901-9878-66142b6ea364.png)
-This is the employee ERD used to outline the databases for the analysis
+
+![EmployeeDB](https://user-images.githubusercontent.com/100330488/162641846-daa1428d-a471-4724-bbb1-c0505afc6ac1.png)
