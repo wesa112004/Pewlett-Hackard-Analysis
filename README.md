@@ -17,3 +17,9 @@ The total count of the mentorship eligible is 1940 based on the chart and csv da
 
 This implies that if 31% of the workforce is retiring i.e 90,398 leaving 209,626 employees, Pewlet Hackard will have roughly 1940/ 209,626 = 0.92% of the current workforce as mentorship eligibile. 
 
+### SUMMARY
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+The amount of roles needed to be filled are based on those leaving the company. If we assume those whom are retirement eligible will all leave, and those who are mentorship eligible will stay and help, Then we have 90,398 (retirement eligible) leaving the company leaving 209,626 employees. That leaves 90,398 roles to be filled with only 1940 mentors.
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+With 90,398 employees leaving and only 1940 mentors, that leaves roughly a 1:46 ratio more or less of the amount of mentors overseeing different employees, i.e one mentor for every 46 new employees. Given these numbers, the argument can be made that because a large majority of employees that are retiring are "senior" (37,4672) Pewlett Hackard might not have enough qualified mentors to help the next generation of employees. 
