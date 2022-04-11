@@ -10,3 +10,5 @@ The following image represents the job type as well as the amount of employees r
 
 <img width="526" alt="Retirement_titles" src="https://user-images.githubusercontent.com/100330488/162655425-fa6832f9-5ee4-42a2-b940-8737f1b56fb2.png">
 
+The staff with titles of "senior" would be suitable for the mentorship program as can be depicted below:
+
