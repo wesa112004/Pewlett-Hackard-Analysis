@@ -6,6 +6,7 @@ This project was undertaken to determine the number of retiring employees per ti
 
 This is the ERD outline for the database for the project
 
-The following image represents the job type as well as the amount of employees representing their respective titles who are elligible for employment. We can see that the number of employees retiring are many and comprise more than 50% of the workforce at Pewlett Hackard.
+The following image represents the job type as well as the amount of employees representing their respective titles who are elligible for employment. We can see that the number of employees retiring are many and comprise more than 50% of the workforce at Pewlett Hackard. The total retiring elligibile employees is 93,398
 
 <img width="526" alt="Retirement_titles" src="https://user-images.githubusercontent.com/100330488/162655425-fa6832f9-5ee4-42a2-b940-8737f1b56fb2.png">
+Total 
